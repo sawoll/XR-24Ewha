@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Posco_Building_Draft/POSCO_Scene.unity
+- path: Assets/Engineering_Building/Eng_Building.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
