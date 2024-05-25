@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Engineering_Building/Eng_Building.unity
+- path: Assets/Engineering_Building/EngScene_0526.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
